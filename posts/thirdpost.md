@@ -1,13 +1,14 @@
 ---
-title: This is my third post.
-description: This is a post on My Blog about win-win survival strategies.
-date: 2018-08-24
+title: Shelby's Mini Market
+description: An advertisment of hand painted 3d printed roleplaying figures.
+date: 2022-04-28
 tags:
-  - second tag
-  - posts with two tags
+  - DND
+  - Roleplay figurines
+  - Hand made small business
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Shelby’s Mini Market is a small store based near Des Moines, Iowa. Dealing primarily in hand-painted miniatures from DND, Pathfinder, various games, and other media. Each item is either painted at Shelby’s discretion or custom requests can be made. A variety of fantasy and horror-inspired artwork can also be found in our inventory. Prints and originals can be bought, primarily made in acrylic or watercolor.  Inventory is updated periodically and you never know exactly what you might find. 
 
 ``` js/2/4
 // this is a command
