@@ -9,9 +9,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+Bhargav Addagarla is a current undergraduate student at Iowa State University, specifically in the Liberal Arts and Sciences, studying for a Bachelor of Science in Psychology. After a career pivot from Aerospace Engineering due to a series of reasons, along with in career experience with Boeing Global Services, he is now looking to pursue a higher degree in his major to work on research and help others in a therapeutic setting. Besides a more academic approach to this, Bhargav is also spending time outside of classes to volunteer with the Iowa State Food Pantry, to help people around the community. This is coupled with being the Vice President of the Iowa State Gaming and Esports Club.
 
 ## About me
 
