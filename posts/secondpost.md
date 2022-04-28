@@ -1,12 +1,16 @@
 ---
-title: This is my second post.
-description: This is a post on My Blog about leveraging agile frameworks.
+title: Wisconsin Car Show
+description: An advertisment of the upcoming summer vintage car show.
 date: 2018-07-04
 tags:
-  - number 2
+  - Cars
+  - Car show
+  - Wisconsin Cars
+  - Vintage Cars
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+The Wisconsin Vintage Car Show is an exhibition of many American and Foreign old school rides, from muscle cars down to the more quirky of the lot. Come down to Spring Green to see it all, from the fastest rides to the loudest engines. Food and drink are both provided and welcome for this all-day event, with a few musical performances to help lighten the mood and provide some all-needed ambiance. Look out for the coming summer, as the Plymouth and mustangs signal the next Vintage Carfest coming to a small Wisconsin town near you!
+
 
 ## Section Header
 
